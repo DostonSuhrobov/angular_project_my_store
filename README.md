@@ -1,3 +1,3 @@
-# angular-v6juhn
+My Store
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-v6juhn)
+Mini project made with Angular 
